@@ -1,0 +1,9 @@
+C:\Users\USER\source\repos\image_viewer\image_viewer\bin\Debug\image_viewer.exe.config
+C:\Users\USER\source\repos\image_viewer\image_viewer\bin\Debug\image_viewer.exe
+C:\Users\USER\source\repos\image_viewer\image_viewer\bin\Debug\image_viewer.pdb
+C:\Users\USER\source\repos\image_viewer\image_viewer\obj\Debug\image_viewer.csprojAssemblyReference.cache
+C:\Users\USER\source\repos\image_viewer\image_viewer\obj\Debug\image_viewer.image_viewer.resources
+C:\Users\USER\source\repos\image_viewer\image_viewer\obj\Debug\image_viewer.Properties.Resources.resources
+C:\Users\USER\source\repos\image_viewer\image_viewer\obj\Debug\image_viewer.csproj.GenerateResource.cache
+C:\Users\USER\source\repos\image_viewer\image_viewer\obj\Debug\image_viewer.exe
+C:\Users\USER\source\repos\image_viewer\image_viewer\obj\Debug\image_viewer.pdb
