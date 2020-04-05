@@ -1,0 +1,9 @@
+C:\Users\USER\source\repos\Test_of_button_check_box\Test_of_button_check_box\bin\Debug\Test_of_button_check_box.exe.config
+C:\Users\USER\source\repos\Test_of_button_check_box\Test_of_button_check_box\bin\Debug\Test_of_button_check_box.exe
+C:\Users\USER\source\repos\Test_of_button_check_box\Test_of_button_check_box\bin\Debug\Test_of_button_check_box.pdb
+C:\Users\USER\source\repos\Test_of_button_check_box\Test_of_button_check_box\obj\Debug\Test_of_button_check_box.csprojAssemblyReference.cache
+C:\Users\USER\source\repos\Test_of_button_check_box\Test_of_button_check_box\obj\Debug\Test_of_button_check_box.Form1.resources
+C:\Users\USER\source\repos\Test_of_button_check_box\Test_of_button_check_box\obj\Debug\Test_of_button_check_box.Properties.Resources.resources
+C:\Users\USER\source\repos\Test_of_button_check_box\Test_of_button_check_box\obj\Debug\Test_of_button_check_box.csproj.GenerateResource.cache
+C:\Users\USER\source\repos\Test_of_button_check_box\Test_of_button_check_box\obj\Debug\Test_of_button_check_box.exe
+C:\Users\USER\source\repos\Test_of_button_check_box\Test_of_button_check_box\obj\Debug\Test_of_button_check_box.pdb
