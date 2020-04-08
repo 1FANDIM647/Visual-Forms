@@ -1,0 +1,9 @@
+C:\Users\USER\source\repos\GroupBox\GroupBox\bin\Debug\GroupBox.exe.config
+C:\Users\USER\source\repos\GroupBox\GroupBox\bin\Debug\GroupBox.exe
+C:\Users\USER\source\repos\GroupBox\GroupBox\bin\Debug\GroupBox.pdb
+C:\Users\USER\source\repos\GroupBox\GroupBox\obj\Debug\GroupBox.csprojAssemblyReference.cache
+C:\Users\USER\source\repos\GroupBox\GroupBox\obj\Debug\GroupBox.Form1.resources
+C:\Users\USER\source\repos\GroupBox\GroupBox\obj\Debug\GroupBox.Properties.Resources.resources
+C:\Users\USER\source\repos\GroupBox\GroupBox\obj\Debug\GroupBox.csproj.GenerateResource.cache
+C:\Users\USER\source\repos\GroupBox\GroupBox\obj\Debug\GroupBox.exe
+C:\Users\USER\source\repos\GroupBox\GroupBox\obj\Debug\GroupBox.pdb
