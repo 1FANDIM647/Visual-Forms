@@ -1,0 +1,9 @@
+C:\Users\USER\source\repos\ToolTip_test\ToolTip_test\bin\Debug\ToolTip_test.exe.config
+C:\Users\USER\source\repos\ToolTip_test\ToolTip_test\bin\Debug\ToolTip_test.exe
+C:\Users\USER\source\repos\ToolTip_test\ToolTip_test\bin\Debug\ToolTip_test.pdb
+C:\Users\USER\source\repos\ToolTip_test\ToolTip_test\obj\Debug\ToolTip_test.csprojAssemblyReference.cache
+C:\Users\USER\source\repos\ToolTip_test\ToolTip_test\obj\Debug\ToolTip_test.Form1.resources
+C:\Users\USER\source\repos\ToolTip_test\ToolTip_test\obj\Debug\ToolTip_test.Properties.Resources.resources
+C:\Users\USER\source\repos\ToolTip_test\ToolTip_test\obj\Debug\ToolTip_test.csproj.GenerateResource.cache
+C:\Users\USER\source\repos\ToolTip_test\ToolTip_test\obj\Debug\ToolTip_test.exe
+C:\Users\USER\source\repos\ToolTip_test\ToolTip_test\obj\Debug\ToolTip_test.pdb
