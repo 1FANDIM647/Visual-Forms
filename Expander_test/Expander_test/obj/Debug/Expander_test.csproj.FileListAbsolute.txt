@@ -1,0 +1,14 @@
+C:\Users\USER\source\repos\Expander_test\Expander_test\bin\Debug\Expander_test.exe.config
+C:\Users\USER\source\repos\Expander_test\Expander_test\bin\Debug\Expander_test.exe
+C:\Users\USER\source\repos\Expander_test\Expander_test\bin\Debug\Expander_test.pdb
+C:\Users\USER\source\repos\Expander_test\Expander_test\obj\Debug\Expander_test.csprojAssemblyReference.cache
+C:\Users\USER\source\repos\Expander_test\Expander_test\obj\Debug\MainWindow.g.cs
+C:\Users\USER\source\repos\Expander_test\Expander_test\obj\Debug\App.g.cs
+C:\Users\USER\source\repos\Expander_test\Expander_test\obj\Debug\Expander_test_MarkupCompile.cache
+C:\Users\USER\source\repos\Expander_test\Expander_test\obj\Debug\Expander_test_MarkupCompile.lref
+C:\Users\USER\source\repos\Expander_test\Expander_test\obj\Debug\MainWindow.baml
+C:\Users\USER\source\repos\Expander_test\Expander_test\obj\Debug\Expander_test.g.resources
+C:\Users\USER\source\repos\Expander_test\Expander_test\obj\Debug\Expander_test.Properties.Resources.resources
+C:\Users\USER\source\repos\Expander_test\Expander_test\obj\Debug\Expander_test.csproj.GenerateResource.cache
+C:\Users\USER\source\repos\Expander_test\Expander_test\obj\Debug\Expander_test.exe
+C:\Users\USER\source\repos\Expander_test\Expander_test\obj\Debug\Expander_test.pdb

@@ -1,0 +1,26 @@
+﻿<Window x:Class="Expander_test.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Expander_test"
+        mc:Ignorable="d"
+        Title="Expander Test" Height="500" Width="800">
+    <Grid>
+        <StackPanel>
+            <Expander Margin="5" Header="Кнопка" Padding="5" BorderBrush="LightBlue" BorderThickness="2">
+                <Button Margin="5">
+                    <Grid>
+                        <Polygon Points="100,25 125,0 200,25 125,50" Fill="LightSteelBlue"></Polygon>
+                        <Polygon Points="100,25 75,0 0,25 75,50" Fill="White"></Polygon>
+                    </Grid>
+                </Button>
+            </Expander>
+            <Expander Margin="5" Padding="5" Header="Процессы Windows"  BorderBrush="LightPink" BorderThickness="2">
+                <TextBlock TextWrapping="Wrap">
+                        Понятие "процесса" существовало в операционных системах Windows ...
+                </TextBlock>
+            </Expander>
+        </StackPanel>
+    </Grid>
+</Window>
