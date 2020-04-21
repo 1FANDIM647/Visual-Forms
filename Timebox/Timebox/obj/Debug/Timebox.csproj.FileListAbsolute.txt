@@ -1,0 +1,14 @@
+C:\Users\USER\source\repos\Timebox\Timebox\bin\Debug\Timebox.exe.config
+C:\Users\USER\source\repos\Timebox\Timebox\bin\Debug\Timebox.exe
+C:\Users\USER\source\repos\Timebox\Timebox\bin\Debug\Timebox.pdb
+C:\Users\USER\source\repos\Timebox\Timebox\obj\Debug\Timebox.csprojAssemblyReference.cache
+C:\Users\USER\source\repos\Timebox\Timebox\obj\Debug\MainWindow.g.cs
+C:\Users\USER\source\repos\Timebox\Timebox\obj\Debug\App.g.cs
+C:\Users\USER\source\repos\Timebox\Timebox\obj\Debug\Timebox_MarkupCompile.cache
+C:\Users\USER\source\repos\Timebox\Timebox\obj\Debug\Timebox_MarkupCompile.lref
+C:\Users\USER\source\repos\Timebox\Timebox\obj\Debug\MainWindow.baml
+C:\Users\USER\source\repos\Timebox\Timebox\obj\Debug\Timebox.g.resources
+C:\Users\USER\source\repos\Timebox\Timebox\obj\Debug\Timebox.Properties.Resources.resources
+C:\Users\USER\source\repos\Timebox\Timebox\obj\Debug\Timebox.csproj.GenerateResource.cache
+C:\Users\USER\source\repos\Timebox\Timebox\obj\Debug\Timebox.exe
+C:\Users\USER\source\repos\Timebox\Timebox\obj\Debug\Timebox.pdb
