@@ -1,0 +1,8 @@
+C:\Users\USER\source\repos\WindowsFormsApptest\WindowsFormsApptest\bin\Debug\WindowsFormsApptest.exe.config
+C:\Users\USER\source\repos\WindowsFormsApptest\WindowsFormsApptest\bin\Debug\WindowsFormsApptest.exe
+C:\Users\USER\source\repos\WindowsFormsApptest\WindowsFormsApptest\bin\Debug\WindowsFormsApptest.pdb
+C:\Users\USER\source\repos\WindowsFormsApptest\WindowsFormsApptest\obj\Debug\WindowsFormsApptest.Form1.resources
+C:\Users\USER\source\repos\WindowsFormsApptest\WindowsFormsApptest\obj\Debug\WindowsFormsApptest.Properties.Resources.resources
+C:\Users\USER\source\repos\WindowsFormsApptest\WindowsFormsApptest\obj\Debug\WindowsFormsApptest.csproj.GenerateResource.cache
+C:\Users\USER\source\repos\WindowsFormsApptest\WindowsFormsApptest\obj\Debug\WindowsFormsApptest.exe
+C:\Users\USER\source\repos\WindowsFormsApptest\WindowsFormsApptest\obj\Debug\WindowsFormsApptest.pdb
