@@ -1,0 +1,10 @@
+C:\Users\USER\source\repos\Webspider\Webspider\bin\Debug\Webspider.exe.config
+C:\Users\USER\source\repos\Webspider\Webspider\bin\Debug\Webspider.exe
+C:\Users\USER\source\repos\Webspider\Webspider\bin\Debug\Webspider.pdb
+C:\Users\USER\source\repos\Webspider\Webspider\obj\Debug\Webspider.csprojAssemblyReference.cache
+C:\Users\USER\source\repos\Webspider\Webspider\obj\Debug\Webspider.Form1.resources
+C:\Users\USER\source\repos\Webspider\Webspider\obj\Debug\Webspider.Properties.Resources.resources
+C:\Users\USER\source\repos\Webspider\Webspider\obj\Debug\Webspider.csproj.GenerateResource.cache
+C:\Users\USER\source\repos\Webspider\Webspider\obj\Debug\Webspider.exe
+C:\Users\USER\source\repos\Webspider\Webspider\obj\Debug\Webspider.pdb
+C:\Users\USER\source\repos\Webspider\Webspider\obj\Debug\Webspider.Form2.resources
