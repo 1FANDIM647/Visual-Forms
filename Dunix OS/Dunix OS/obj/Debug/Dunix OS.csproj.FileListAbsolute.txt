@@ -1,0 +1,9 @@
+C:\Users\USER\source\repos\Dunix OS\Dunix OS\bin\Debug\Dunix OS.exe.config
+C:\Users\USER\source\repos\Dunix OS\Dunix OS\bin\Debug\Dunix OS.exe
+C:\Users\USER\source\repos\Dunix OS\Dunix OS\bin\Debug\Dunix OS.pdb
+C:\Users\USER\source\repos\Dunix OS\Dunix OS\obj\Debug\Dunix OS.csprojAssemblyReference.cache
+C:\Users\USER\source\repos\Dunix OS\Dunix OS\obj\Debug\Dunix_OS.Form1.resources
+C:\Users\USER\source\repos\Dunix OS\Dunix OS\obj\Debug\Dunix_OS.Properties.Resources.resources
+C:\Users\USER\source\repos\Dunix OS\Dunix OS\obj\Debug\Dunix OS.csproj.GenerateResource.cache
+C:\Users\USER\source\repos\Dunix OS\Dunix OS\obj\Debug\Dunix OS.exe
+C:\Users\USER\source\repos\Dunix OS\Dunix OS\obj\Debug\Dunix OS.pdb
