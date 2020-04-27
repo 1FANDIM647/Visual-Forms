@@ -1,0 +1,10 @@
+C:\Users\USER\source\repos\Brendmauer\Brendmauer\bin\Debug\Brendmauer.exe.config
+C:\Users\USER\source\repos\Brendmauer\Brendmauer\bin\Debug\Brendmauer.exe
+C:\Users\USER\source\repos\Brendmauer\Brendmauer\bin\Debug\Brendmauer.pdb
+C:\Users\USER\source\repos\Brendmauer\Brendmauer\obj\Debug\Brendmauer.csprojAssemblyReference.cache
+C:\Users\USER\source\repos\Brendmauer\Brendmauer\obj\Debug\Brendmauer.Form1.resources
+C:\Users\USER\source\repos\Brendmauer\Brendmauer\obj\Debug\Brendmauer.Properties.Resources.resources
+C:\Users\USER\source\repos\Brendmauer\Brendmauer\obj\Debug\Brendmauer.csproj.GenerateResource.cache
+C:\Users\USER\source\repos\Brendmauer\Brendmauer\obj\Debug\Brendmauer.exe
+C:\Users\USER\source\repos\Brendmauer\Brendmauer\obj\Debug\Brendmauer.pdb
+C:\Users\USER\source\repos\Brendmauer\Brendmauer\obj\Debug\Brendmauer.Form2.resources
