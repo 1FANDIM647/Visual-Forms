@@ -122,7 +122,7 @@
             this.ClientSize = new System.Drawing.Size(1336, 665);
             this.Controls.Add(this.pictureBox1);
             this.Controls.Add(this.panel1);
-            this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.FixedToolWindow;
+            this.Icon = ((System.Drawing.Icon)(resources.GetObject("$this.Icon")));
             this.Name = "Form1";
             this.Text = "Media box";
             this.Load += new System.EventHandler(this.Form1_Load);

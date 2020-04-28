@@ -27,7 +27,7 @@ namespace Brendmauer
 
         private void button3_Click(object sender, EventArgs e)
         {
-            string textBox1 = "version 0.2";
+            string textBox1 = "version 1.0";
             MessageBox.Show(textBox1);
         }
 

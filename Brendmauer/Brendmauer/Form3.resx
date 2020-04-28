@@ -134,4 +134,29 @@
   <metadata name="openFileDialog2.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
     <value>184, 17</value>
   </metadata>
+  <assembly alias="System.Drawing" name="System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
+  <data name="$this.Icon" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+    <value>
+        AAABAAEAEBAAAAEAIABoBAAAFgAAACgAAAAQAAAAIAAAAAEAIAAAAAAAAAQAAHQSAAB0EgAAAAAAAAAA
+        AAB/f3//f39//35+fv9+fn7/f39//39/f/9+fn7/fn5+/35+fv9/f3//f39//35+f/9+fn7/f39//39/
+        f/9/f3//f39//4CAf/+Dg4P/goKD/39/f/9/f37/goKB/4ODg/+CgoP/f39//39/f/+CgoH/g4OD/4CA
+        gf9/f3//f39//4SDgf9ocXj/Ghoi/zYsHv+BfXj/hYeH/0ZRXf8bGxr/VEg8/4eFg/97gIT/KjNA/xoa
+        Gv9qYFL/g4WH/35+ff+GhIH/YW12/wAABP8fEQD/hX53/3iAhv8MFyT/AAAA/xcLA/+AeG3/fIWK/w8a
+        K/8AAAD/Y1ZE/4WHif9+fX3/hoOB/2Jud/8BAQv/IxYF/4yFff9NXWv/AAAC/xMTDv8AAAD/YFA//4OL
+        j/8UHi7/AQEB/2RYR/+Ehoj/fn19/4aEgf9ibnf/AAAK/yMVA/+FhYD/Gio8/wEAAP9VUkn/AgwZ/ykX
+        DP+DhoT/Ex8w/wAAAP9kWEf/hIaJ/359ff+GhIH/Ym53/wAACf8qGwf/Zm5x/wADC/8fEAf/ioZ+/yg7
+        TP8CAAD/b2pg/xglN/8AAAD/ZFhH/4SGif9+fX3/hoSB/2Jud/8AAAj/Kx8N/zI8Rf8AAAD/UUIy/46N
+        iv9caXT/AAAE/z81Kf8cJzT/AAAA/2RYR/+Ehon/fn19/4aEgf9ibnf/AQAJ/xwYD/8JDxf/DQYB/3lw
+        Zf+AgYL/gISG/xQhMf8MCAL/Fhog/wEBAf9kV0b/hIaI/359ff+GhIH/YG12/wAACf8EAgD/AAAA/zws
+        Hf+Ih4P/e3x9/4iHhf9IV2X/AAAA/wMDBP8AAAD/Y1VE/4WGif9+fX3/hYOB/2Nud/8KDBX/CgkJ/w4K
+        Cv9rYFP/g4WG/319ff+Bf37/dn2C/xQdKP8JCQn/CgoK/2VZSf+Ehoj/fn19/39/f/99fn//eXl5/3l5
+        ef96eXn/gICA/39/f/9/f3//f39//4CAgP97fH3/eXl5/3l5ef9+fXz/f39//39/f/9/f3//f39//4GB
+        gf+BgYH/gIGB/39/f/9/f3//f39//39/f/9/f3//gICA/4GBgf+BgYH/f4CA/39/f/9/f3//f39//39/
+        f/9/f3//f39//39/f/9/f3//f39//39/f/9/f3//f39//39/f/9/f3//f39//39/f/9/f3//f39//39/
+        f/9/f3//f39//39/f/9/f3//f39//39/f/9/f3//f39//39/f/9/f3//f39//39/f/9/f3//f39//39/
+        f/9/f3//f39//39/f/9/f3//f39//39/f/9/f3//f39//39/f/9/f3//f39//39/f/9/f3//f39//39/
+        f/9/f3//AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+        AAAAAAAAAAAAAA==
+</value>
+  </data>
 </root>
