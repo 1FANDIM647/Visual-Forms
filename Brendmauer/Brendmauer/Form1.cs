@@ -45,7 +45,7 @@ namespace Brendmauer
         }
         private void Form1_Load(object sender, EventArgs e)
         {
-
+           
         }
 
         private void button4_Click(object sender, EventArgs e)
@@ -59,5 +59,18 @@ namespace Brendmauer
         {
             Application.Run(new Form1());
         }
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+            this.Close();
+            th = new Thread(opena);
+            th.SetApartmentState(ApartmentState.STA);
+            th.Start();
+        }
+        private void opena(object obj)
+        {
+            Application.Run(new Form3());
+        }
+
     }
 }

@@ -8,3 +8,16 @@ C:\Users\USER\source\repos\Brendmauer\Brendmauer\obj\Debug\Brendmauer.csproj.Gen
 C:\Users\USER\source\repos\Brendmauer\Brendmauer\obj\Debug\Brendmauer.exe
 C:\Users\USER\source\repos\Brendmauer\Brendmauer\obj\Debug\Brendmauer.pdb
 C:\Users\USER\source\repos\Brendmauer\Brendmauer\obj\Debug\Brendmauer.Form2.resources
+C:\Users\USER\source\repos\Brendmauer\Brendmauer\obj\Debug\Interop.ACTIVEXLib.dll
+C:\Users\USER\source\repos\Brendmauer\Brendmauer\obj\Debug\Interop.MediaPlayer.dll
+C:\Users\USER\source\repos\Brendmauer\Brendmauer\obj\Debug\Interop.WMLSS.dll
+C:\Users\USER\source\repos\Brendmauer\Brendmauer\obj\Debug\Interop.WMPDXMLib.dll
+C:\Users\USER\source\repos\Brendmauer\Brendmauer\obj\Debug\Interop.WMPLauncher.dll
+C:\Users\USER\source\repos\Brendmauer\Brendmauer\obj\Debug\Interop.WMPLib.dll
+C:\Users\USER\source\repos\Brendmauer\Brendmauer\obj\Debug\Interop.WMPNSSCI.dll
+C:\Users\USER\source\repos\Brendmauer\Brendmauer\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\USER\source\repos\Brendmauer\Brendmauer\obj\Debug\Brendmauer.csproj.ResolveComReference.cache
+C:\Users\USER\source\repos\Brendmauer\Brendmauer\obj\Debug\Brendmauer.Form3.resources
+C:\Users\USER\source\repos\Brendmauer\Brendmauer\obj\Debug\Brendmauer.Properties.Form1.resources
+C:\Users\USER\source\repos\Brendmauer\Brendmauer\bin\Debug\Interop.WMPLib.dll
+C:\Users\USER\source\repos\Brendmauer\Brendmauer\bin\Debug\AxInterop.WMPLib.dll
