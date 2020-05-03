@@ -21,3 +21,4 @@ C:\Users\USER\source\repos\Brendmauer\Brendmauer\obj\Debug\Brendmauer.Form3.reso
 C:\Users\USER\source\repos\Brendmauer\Brendmauer\obj\Debug\Brendmauer.Properties.Form1.resources
 C:\Users\USER\source\repos\Brendmauer\Brendmauer\bin\Debug\Interop.WMPLib.dll
 C:\Users\USER\source\repos\Brendmauer\Brendmauer\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\USER\source\repos\Brendmauer\Brendmauer\obj\Debug\Brendmauer.Form4.resources

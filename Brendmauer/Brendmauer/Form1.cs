@@ -20,6 +20,8 @@ namespace Brendmauer
             InitializeComponent();
         }
 
+        
+        
         private void label1_Click(object sender, EventArgs e)
         {
 
@@ -27,7 +29,7 @@ namespace Brendmauer
 
         private void button3_Click(object sender, EventArgs e)
         {
-            string textBox1 = "version 1.0";
+            string textBox1 = "version 1.1";
             MessageBox.Show(textBox1);
         }
 
@@ -72,5 +74,10 @@ namespace Brendmauer
             Application.Run(new Form3());
         }
 
+        private void button5_Click(object sender, EventArgs e)
+        {
+            Form4 f4 = new Form4();
+            f4.ShowDialog();
+        }
     }
 }
