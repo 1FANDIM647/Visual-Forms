@@ -1,0 +1,9 @@
+C:\Users\USER\source\repos\CalculateBase\CalculateBase\bin\Debug\CalculateBase.exe.config
+C:\Users\USER\source\repos\CalculateBase\CalculateBase\bin\Debug\CalculateBase.exe
+C:\Users\USER\source\repos\CalculateBase\CalculateBase\bin\Debug\CalculateBase.pdb
+C:\Users\USER\source\repos\CalculateBase\CalculateBase\obj\Debug\CalculateBase.csprojAssemblyReference.cache
+C:\Users\USER\source\repos\CalculateBase\CalculateBase\obj\Debug\CalculateBase.Form1.resources
+C:\Users\USER\source\repos\CalculateBase\CalculateBase\obj\Debug\CalculateBase.Properties.Resources.resources
+C:\Users\USER\source\repos\CalculateBase\CalculateBase\obj\Debug\CalculateBase.csproj.GenerateResource.cache
+C:\Users\USER\source\repos\CalculateBase\CalculateBase\obj\Debug\CalculateBase.exe
+C:\Users\USER\source\repos\CalculateBase\CalculateBase\obj\Debug\CalculateBase.pdb
