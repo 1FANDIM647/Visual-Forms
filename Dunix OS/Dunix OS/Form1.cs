@@ -2,6 +2,7 @@
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
+using System.Diagnostics;
 using System.Drawing;
 using System.Linq;
 using System.Text;
@@ -21,6 +22,7 @@ namespace Dunix_OS
         private void hideSubMenu()
         {
             panel3.Visible = false;
+         
         }
 
         private void showSubMenu(Panel subMenu)
@@ -49,6 +51,36 @@ namespace Dunix_OS
         private void Form1_Load(object sender, EventArgs e)
         {
 
+        }
+
+        private void label1_Click(object sender, EventArgs e)
+        {
+            label1.Text = DateTime.Now.ToString("yyyy.MM.dd, HH.mm.ss");
+
+        }
+
+        private void panel2_Paint(object sender, PaintEventArgs e)
+        {
+
+        }
+
+        private void button6_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            Form ifrm = new Form2();
+            ifrm.Show();
+
+        }
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+            
+
+                 Process.Start("http://google.com");
         }
     }
 }
